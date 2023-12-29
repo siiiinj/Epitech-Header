@@ -14,7 +14,7 @@ export function activate(context: vscode.ExtensionContext) {
 
             if (name !== undefined && description !== undefined) {
                 const header = `/*
-** EPITECH PROJECT, 2023
+** EPITECH PROJECT, 2024
 ** ${name}
 ** File description:
 ** ${description}
